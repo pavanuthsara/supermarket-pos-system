@@ -1,3 +1,7 @@
+/*
+This page is to select whether user is admin or cashier.
+Then user will redirect to their login page.
+*/
 
 function First() {
   return (
